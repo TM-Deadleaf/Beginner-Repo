@@ -78,3 +78,6 @@ Format
 
 ## [Bryceson Laing](https://github.com/bklaing2/)
 
+## [Tanishq Mishra](https://github.com/TM-Deadleaf)
+
+
